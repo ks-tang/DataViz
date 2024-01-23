@@ -6,13 +6,14 @@ L'objectif est de fournir des informations visuelles intuitives sur les mouvemen
 
 ## Auteurs
 Groupe 8 :
-Siham KIARED
-Kévin TANG
-Yann VINCENT
+- Siham KIARED
+- Kévin TANG
+- Yann VINCENT
 
 M2 Data Science
 2023-2024
 Université Claude Bernard Lyon 1
+
 Enseignant référant : Aurélien TABARD
 
 ![image](https://github.com/ks-tang/DataViz/assets/102915124/f557ff87-03a7-4285-90a8-56a764846b90)
