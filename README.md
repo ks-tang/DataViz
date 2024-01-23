@@ -11,6 +11,7 @@ Kévin TANG
 Yann VINCENT
 
 M2 Data Science
+2023-2024
 Université Claude Bernard Lyon 1
 Enseignant référant : Aurélien TABARD
 
