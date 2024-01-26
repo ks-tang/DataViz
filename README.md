@@ -30,3 +30,8 @@ Projet visible via ce lien : https://ks-tang.github.io/DataViz/
 1. Choisissez un joueur ou un club dans les listes déroulantes.
 2. Explorez les transferts, les graphiques et les informations détaillées.
 3. Utilisez le slider pour sélectionner une saison spécifique.
+
+## Difficultés rencontrées
+
+Pour pouvoir placer les clubs sur la carte, nous avons eu besoin de trois jeux de données. Un contenant les noms des clubs et ceux des stades, un autre avec les noms des villes et leurs coordonnées de localisation, et un dernier avec les transferts des joueurs ainsi que les noms des clubs associés. Nous avons donc dû relier ces trois jeux de données en utilisant plusieurs fonctions dans le code. Nous avons également rencontré des problèmes pour harmoniser les données. En effet, la langue utilisée dans chaque jeu de données n'était pas la même, et les noms des clubs ne correspondaient pas non plus. Par exemple, pour les villes, il y avait une différence entre Neapol et Naples, ou entre SSC Napoli et Napoli pour les clubs. Nous avons donc dû modifier manuellement les fichiers CSV afin de pouvoir relier les jeux de données. Nous avons également dû gérer les cas de doublons. Par exemple, il existe de nombreuses villes dans le monde portant le nom de Barcelone. Ainsi, tous nos transferts vers le FC Barcelone étaient dirigés vers l'Amérique latine sur la carte. Tout ce travail nous a beaucoup ralenti et nous a empêchés de consacrer davantage de temps aux autres fonctionnalités.
+
