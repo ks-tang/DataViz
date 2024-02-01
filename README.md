@@ -24,7 +24,7 @@ Enseignant référant : Aurélien TABARD
 - **Informations détaillées :** Obtenez des détails sur les transferts, les clubs et les joueurs sélectionnés.
 
 ## Exécution du projet
-Projet visible via ce lien : https://ks-tang.github.io/DataViz/
+Projet visible via ce lien : https://ks-tang.github.io/DataViz_FootballTransfers/
 
 ## Utilisation
 1. Choisissez un joueur ou un club dans les listes déroulantes.
